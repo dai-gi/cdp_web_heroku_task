@@ -1,5 +1,5 @@
 {
-  "name": "heroku_task_app",
+  "name": "cdp_web_heroku_task",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
